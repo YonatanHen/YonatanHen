@@ -1,6 +1,6 @@
 ### Hi there, I'm Yehonatan Hen 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=57364867&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=57364867)
 
 <!--
 **YehonatanHen/YehonatanHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
