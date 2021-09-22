@@ -1,6 +1,6 @@
 ![image](./banner.png)
 
-# A 4th-year Software Engineering student & working as a student NOC Operator [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
+# A 4th-year Software Engineering student & working as a student NOC Operator
 
 ### Languages:
 
@@ -17,7 +17,7 @@
 
 ![image](https://github-readme-stats.vercel.app/api?username=YehonatanHen)
 
-
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
 
 
 
