@@ -2,7 +2,9 @@
 
 ### A 4th-year Software Engineering student & NOC Operator at Fintech comapny
 
-### You can reach me at:  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
+### You can reach me at:
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
 
 Languages:
 
