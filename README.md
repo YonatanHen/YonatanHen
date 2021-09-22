@@ -1,8 +1,6 @@
 ![image](./banner.png)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=57364867&left_color=green&right_color=red)
+Feel free to reach my linkedin profile: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
 
 Languages:
 
