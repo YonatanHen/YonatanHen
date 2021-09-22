@@ -1,6 +1,5 @@
 ### Hi there, I'm Yehonatan Hen 👋
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/yehonatan-hen/) 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=57364867&left_color=green&right_color=red)
 
