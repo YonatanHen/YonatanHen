@@ -1,6 +1,6 @@
 ![image](./banner.png)
 
-# A 4th-year Software Engineering student & working as a student NOC Operator
+## A 4th-year Software Engineering student & working as a student NOC Operator
 
 ### Languages:
 
