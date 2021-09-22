@@ -1,6 +1,10 @@
 ### Hi there, I'm Yehonatan Hen 👋
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/yehonatan-hen/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=57364867&left_color=green&right_color=red)
+
+Languages and Tools:
+
 
 <!--
 **YehonatanHen/YehonatanHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
