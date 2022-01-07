@@ -1,4 +1,4 @@
-![image](./banner.png) ![image](https://github-readme-stats.vercel.app/api?username=YehonatanHen)
+![image](./banner.png)
 
 ### Languages:
 
@@ -21,8 +21,8 @@
 ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![image](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white) ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YehonatanHen)
-
+      ![image](https://github-readme-stats.vercel.app/api?username=YehonatanHen)
+      ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YehonatanHen)
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehonatan-hen/) 
