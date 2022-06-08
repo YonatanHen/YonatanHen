@@ -1,6 +1,5 @@
-![image](./banner.png)
-
-
+# Hi 👋
+## My name is Yonatan Hen, A Junior Software Engineer
 
 ### Languages:
 
@@ -21,7 +20,6 @@
 ### Monitoring Tools:
 
 ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![image](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white) ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-
 <!--
 **YehonatanHen/YehonatanHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
