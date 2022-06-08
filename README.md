@@ -1,5 +1,4 @@
-# Hi 👋
-## My name is Yonatan Hen, A Junior Software Engineer
+# Hi 👋 My name is Yonatan Hen, A Junior Software Engineer
 
 ### Languages:
 
