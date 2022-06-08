@@ -1,7 +1,7 @@
 # Hi there!👋 
 ### My name is Yonatan Hen, A Junior Software Engineer.
 Experienced in Web/Software/Mobile development in various tools and technologies which can be seen below.
-I have acquired the knowledge from degree studies and self-learning from online courses, documentations or as part of solving of problems and bugs I faced with during development 😎
+My knowledge is based on degree studies, self-learning from online courses, documentations, and as part of solving of problems and bugs I faced with during development 😎
 
 #### Languages:
 
@@ -27,6 +27,7 @@ Some fun facts about myself:
 - Addicted to Soccer and Basketball 🏀⚽
 - Train 3-4 times a week 💪
 - There is no chance that you can beat me in Trivia about the world map 🌍
+- Looking for a new challenge as a software developer! 🧑‍💻
 
 
 <!--
