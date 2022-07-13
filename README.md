@@ -1,5 +1,5 @@
 # Hi there!👋 
-### My name is Yonatan Hen, A Junior Software Engineer.
+### My name is Yonatan Hen, A Software Engineer.
 Experienced in Web/Software/Mobile development in various tools and technologies which can be seen below.
 My knowledge is based on degree studies, self-learning from online sources (such as Udemy courses, docs and so on...), and solving different problems during development. 😎
 
