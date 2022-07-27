@@ -23,15 +23,17 @@ My knowledge is based on degree studies, self-learning from online sources (such
 
 ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![image](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white) ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+
+
+<!--
+**YehonatanHen/YehonatanHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Some fun facts about myself:
 - Addicted to Soccer and Basketball 🏀⚽
 - Train 3-4 times a week 💪
 - There is no chance that you can beat me in Trivia about the world map 🌍
 - Looking for a new challenge as a software developer! 🧑‍💻
-
-
-<!--
-**YehonatanHen/YehonatanHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
