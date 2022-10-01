@@ -5,6 +5,9 @@ During my degree studies, I had been exposed to a lot of methodologies, tools, a
 Although, during my degree studies I decided to learn Node.js technologies by myself and found it in general, and JavaScript in particular, as my favorite technology to develop websites/mobile apps.
 Nevertheless, as a student and even afterward, I'm always learning by solving Leet Code problems, watching online courses, or developing new applications. 🧑‍💻
 
+<br/>
+<hr/>
+
 #### Languages:
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
