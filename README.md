@@ -1,5 +1,5 @@
 # Hi there!👋 
-### My name is Yonatan Hen, a Software Engineer | ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+### My name is Yonatan Hen, a Software Engineer
 I'm a Bachelor's (B.Sc.) in Software Engineering from SCE college in Israel.
 During my degree studies, I had been exposed to a lot of methodologies, tools, and programming languages such as Python, Java, and more.
 Although, during my degree studies I decided to learn Node.js technologies by myself and found it in general, and JavaScript in particular, as my favorite technology to develop websites/mobile apps.
@@ -25,7 +25,7 @@ Nevertheless, as a student and even afterward, I'm always learning by solving Le
 
 ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![image](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white) ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-
+![[Linkedin](https://www.linkedin.com/in/yonatan-hen/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **YehonatanHen/YehonatanHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
