@@ -1,6 +1,7 @@
 # Hi there!👋 
 ### My name is Yonatan Hen, a Software Engineer
 I'm a Bachelor's (B.Sc.) in Software Engineering from SCE college in Israel.
+<br/>
 As a student and even afterward, I'm always learning by solving Leet Code problems, watching online courses, or developing new applications. 🧑‍💻
 <br/>
 I'm experienced in web and software development in various tools, as it can be seen below.
