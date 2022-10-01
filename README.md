@@ -4,7 +4,6 @@ I'm a Bachelor's (B.Sc.) in Software Engineering from SCE college in Israel. As 
 <br/>
 I'm experienced in web and software development in various tools, as it can be seen below.
 
-<br/>
 <hr/>
 
 #### Languages:
