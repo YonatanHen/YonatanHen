@@ -1,7 +1,7 @@
 # Hi there!👋 
 ### My name is Yonatan Hen, a Software Engineer
 I'm a Bachelor's (B.Sc.) in Software Engineering from SCE college in Israel. 
-Experienced in software and web development in various tools, technologies, and methodologies from degree studies, but also by self-learning from different sources such as Udemy, YouTube, Stack Overflow, technologies docs, etc. 🧑‍💻
+Experienced in software and web development in various tools, technologies, and methodologies which I learned from degree studies, but also by self-learning from different sources such as Udemy, YouTube, Stack Overflow, technologies docs, etc. 🧑‍💻
 
 <hr/>
 
