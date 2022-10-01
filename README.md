@@ -1,6 +1,9 @@
 # Hi there!👋 
 ### My name is Yonatan Hen, a Software Engineer.
-Experienced in Web/Software/Mobile development in various tools and technologies which can be seen below.
+I'm a Bachelor's (B.Sc.) in Software Engineering from SCE college in Israel.
+During degree studies I had been exposed to a lot of methodolgies, tools and programming languages such as Python, JAVA, C/C++ and more. 
+Altough, during degree studied I have been decided to learn Node.js technologies by myself and found it as my favourite technology to develop websites/mobile apps.
+Nevertheless, as a student and even afterward, I'm always ready solve Leet Code problems or developing new applications 🧑‍💻
 
 #### Languages:
 
