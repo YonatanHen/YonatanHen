@@ -1,5 +1,6 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Yonatan Hen)|https://www.linkedin.com/in/yonatan-hen/)" title="👋 Hi there! I'm (Yonatan Hen)|https://www.linkedin.com/in/yonatan-hen/)"/>](https://www.linkedin.com/in/yonatan-hen/))
-have a B.Sc. degree in Software Engineering and currently works as a Developer Support Engineer at JFrog. My passion for software development drives me to constantly learn about new technologies and refine my skills.
+# Hi There! 👋 I'm Yonatan Hen
+
+I have a B.Sc. degree in Software Engineering and currently work as a Developer Support Engineer at JFrog. My passion for software development drives me to constantly learn about new technologies and refine my skills.
 
 I enjoy reading books and listening to podcasts on stock trading, and economics 📈, learning new material at Udemy 🙇‍♂️, training at the gym 🏋️‍♂️, and relish watching a good football match ⚽️
 
