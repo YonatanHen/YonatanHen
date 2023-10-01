@@ -1,5 +1,4 @@
-# Hi there!👋 
-### My name is Yonatan Hen, a Software Engineer
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Yonatan Hen)|https://www.linkedin.com/in/yonatan-hen/)" title="👋 Hi there! I'm (Yonatan Hen)|https://www.linkedin.com/in/yonatan-hen/)"/>](https://www.linkedin.com/in/yonatan-hen/))
 have a B.Sc. degree in Software Engineering and currently works as a Developer Support Engineer at JFrog. My passion for software development drives me to constantly learn about new technologies and refine my skills.
 
 I enjoy reading books and listening to podcasts on stock trading, and economics 📈, learning new material at Udemy 🙇‍♂️, training at the gym 🏋️‍♂️, and relish watching a good football match ⚽️
@@ -7,6 +6,9 @@ I enjoy reading books and listening to podcasts on stock trading, and economics 
 If you would like to learn more about me or just want to talk with me, feel free to reach me on [Linkedin](https://www.linkedin.com/in/yonatan-hen/).
 
 <hr/>
+
+
+#### Programming Languages:
 
 #### Languages:
 
