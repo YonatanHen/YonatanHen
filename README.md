@@ -18,3 +18,5 @@ If you would like to learn more about me or just want to talk with me, feel free
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YonatanHen&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YonatanHen&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YonatanHen&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YonatanHen&theme=dark&border_radius=6&card_width=800&hide_current_streak=true)](https://git.io/streak-stats)
