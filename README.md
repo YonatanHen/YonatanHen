@@ -3,7 +3,7 @@
 Software Engineer from Israel, focused on backend and full‑stack development.
 
 - 💼 Software Engineer @ One Platform
-- 🎓 B.Sc. in Software Engineering (SCE)
+- 🎓 B.Sc. in Software Engineering
 - 🧠 Interested in scalable backend services, clean APIs, and modern web applications
 - 🏃‍♂️ Outside of code: running, strength training, and learning about finance & investing
 
@@ -14,9 +14,11 @@ Software Engineer from Israel, focused on backend and full‑stack development.
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-e83524?style=for-the-badge&logo=typeorm&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -25,12 +27,13 @@ Software Engineer from Israel, focused on backend and full‑stack development.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Databases**
+**Databases & ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d71f00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 **Cloud & Tooling (Supportive Skills)**
 
@@ -54,5 +57,4 @@ Software Engineer from Israel, focused on backend and full‑stack development.
 
 ## 📫 Reach Me
 
-
-💼 LinkedIn: [linkedin.com/in/yonatan-hen](https://www.linkedin.com/in/yonatan-hen)
+- 💼 LinkedIn: [linkedin.com/in/yonatan-hen](https://www.linkedin.com/in/yonatan-hen)
