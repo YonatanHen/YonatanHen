@@ -46,12 +46,6 @@ Software Engineer from Israel, focused on backend and full‑stack development.
 
 ---
 
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YonatanHen)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📫 Reach Me
 
 - 💼 LinkedIn: [linkedin.com/in/yonatan-hen](https://www.linkedin.com/in/yonatan-hen)
