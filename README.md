@@ -1,11 +1,11 @@
 # Hi, I'm Yonatan Hen 👋
 
-Software Engineer from Israel, focused on backend and full‑stack development.
+Software Engineer from Israel, passionate about building scalable backend services and full‑stack applications.
 
-- 💼 Software Engineer @ One Platform
-- 🎓 B.Sc. in Software Engineering
-- 🧠 Interested in scalable backend services, clean APIs, and modern web applications
-- 🏃‍♂️ Outside of code: running, strength training, and learning about finance & investing
+- 💼 Software Engineer
+- 🎓 B.Sc. in Software Engineering - SCE (GPA: 87.6)
+- 🧠 Into scalable backend systems, clean REST APIs, cloud-native development, and AI-assisted engineering
+- 🏃‍♂️ Outside of code: distance running, strength training, football, and learning about finance & investing
 
 ---
 
@@ -35,7 +35,7 @@ Software Engineer from Israel, focused on backend and full‑stack development.
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d71f00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-**Cloud & Tooling (Supportive Skills)**
+**DevOps & Tooling (Supportive Skills)**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
