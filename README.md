@@ -2,7 +2,7 @@
 
 Software Engineer from Israel, passionate about building scalable backend services and full‑stack applications.
 
-- 💼 Software Engineer
+- 💼 Software Engineer at One Platform
 - 🎓 B.Sc. in Software Engineering - SCE (GPA: 87.6)
 - 🧠 Into scalable backend systems, clean REST APIs, cloud-native development, and AI-assisted engineering
 - 🏃‍♂️ Outside of code: distance running, strength training, football, and learning about finance & investing
